@@ -1,2 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vann-9214)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vann-9214&date_format=M%20j%5B%20Y%5D&v=2)](https://git.io/streak-stats)
