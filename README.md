@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vann-9214&exclude_days=Sun,Sat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vann-9214&mode=daily)](https://git.io/streak-stats)
